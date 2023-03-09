@@ -11,6 +11,6 @@ int main(){
     {
         cout<<" "<<i<<;
     }
-    
+    cout<<"0e biennnnnn";
     return 0;
 }
